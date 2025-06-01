@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
-## Hi there, Welcome to my GitHub homepage!!
-This is Estelle, studying __computer science__ and __neuroscience__ double major, as well as a __statistics__ minor at the University of Toronto!
+## Hi there, 
+Please call me Estelle, studying __computer science__ and __neuroscience__ double major at the University of Toronto.
 * * *
 ### 📚 About me:
 - __Pronouns:__ She/Her
